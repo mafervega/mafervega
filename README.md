@@ -8,6 +8,6 @@ La tecnología y la informática son campos en constante evolución, por lo que 
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- GitHub: [@mafervega] https://github.com/mafervega
-- LinkedIn: Maria Fernanda vega https://www.linkedin.com/in/mar%C3%ADa-fernanda-vega-pacheco-301810220/
+- GitHub: @mafervega.  https://github.com/mafervega
+- LinkedIn: Maria Fernanda vega.  https://www.linkedin.com/in/mar%C3%ADa-fernanda-vega-pacheco-301810220/
 
