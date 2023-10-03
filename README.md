@@ -2,6 +2,7 @@
 
 ## Acerca de mí
 soy una persona que le gusta interactuar con la nuevas cosas que sale en el mundo al momento de que me intereso la rama sistemas tengo que esta estuando las cosas  nuevas que salgan.
+<br>
 La tecnología y la informática son campos en constante evolución, por lo que mantenerse al día con las últimas tendencias y avances es esencial
 
 ## Contacto
