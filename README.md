@@ -1,4 +1,3 @@
 ﻿
-Hi 👋, I'm maria vega los polltios dicen 
-
+Hi 👋, I'm maria vega <br>
 A passionate frontend developer from colombia
