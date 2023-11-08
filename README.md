@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm maria fernanda vega</h1>
-<h3 align="center">A passionate frontend developer from colombia</h3>
+<h3 align="center">Desarrolladora web Front End. Con experiencia en paginas web responsivas utilizando react, redux, JavaScritp. Actualmente estoy aprendiendo Vue.js.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
