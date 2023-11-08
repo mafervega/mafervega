@@ -1,14 +1,11 @@
-# Hola, soy Maria Vega 👋
+# Hola 👋, soy Maria Vega 
 
 ## Acerca de mí
-soy una persona que le gusta interactuar con la nuevas cosas que sale en el mundo al momento de que me intereso la rama sistemas tengo que esta estuando las cosas  nuevas que salgan.
+Un desarrollador Front-end apasionado por la tecnologia que busca a traves del sector TI aportar a la sociedad y a su constante progeso hacia una calidad de vida mejor.
 <br>
-La tecnología y la informática son campos en constante evolución, por lo que mantenerse al día con las últimas tendencias y avances es esencial
 
-## Contacto
+## Connect with me: 
+"a" https://www.linkedin.com/in/mar%C3%ADa-fernanda-vega-pacheco-301810220/ "/a"
 
-Puedes encontrarme en las siguientes redes sociales:
-
-- GitHub: @mafervega.  https://github.com/mafervega
-- LinkedIn: Maria Fernanda vega.  https://www.linkedin.com/in/mar%C3%ADa-fernanda-vega-pacheco-301810220/
-
+Languages and tools:
+css3 html5 javascript nodejs react sass vuejs webpack
